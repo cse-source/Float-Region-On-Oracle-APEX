@@ -41,8 +41,7 @@ This is the most common use case — a region that stays in place as the user sc
 }
 ```
 
-3. Set Region Static ID : floatRegion
-4. Execute when Page Loads
+3. Execute when Page Loads
 
 ```JavaScript
 $("#floatRegion").draggable({
